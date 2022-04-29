@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alson-rai
 - 👀 I’m interested in programming and security. 
-- 🌱 I’m currently learning git and AI&ML
+- 🌱 I’m currently learning git and AI&ML.
 - 💞️ I’m looking to collaborate on begginer projects. 
 - 📫 How to reach me ...
 
